@@ -57,8 +57,8 @@ I'm a passionate final-year B.E. student majoring in Artificial Intelligence & M
 
 ## 📫 Let's Connect
 
-- 📧 Email: jagmohanprajapat21@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/jagmohan-prajapati](https://linkedin.com/in/jagmohan-prajapati)
+- 📧 Email: jagmohanprajapat003@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/jagmohan-prajapati](https://www.linkedin.com/in/jagmohan-prajapati-aaa117200/)
 - 💻 Portfolio: *Coming Soon*
 - 💬 Ask me about: AI/ML, Data Pipelines, Blockchain, Full Stack Projects
 
