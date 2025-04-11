@@ -1,64 +1,67 @@
-<h1 align="center">Hi 👋, I'm Jagmohan Prajapati</h1>
-<h3 align="center">Final Year AI & ML Student | Full Stack Developer | Data Engineer in progress 🚀</h3>
+# 👋 Hi, I'm Jagmohan Prajapati
+
+🚀 Final Year Engineering Student | AI/ML & Data Engineering Enthusiast | Full Stack Developer | Blockchain Explorer | Tech Tinkerer
 
 ---
 
-### 👨‍🎓 About Me
+## 👨‍💻 About Me
 
-- 🎓 Final year B.Tech student, **Artificial Intelligence & Machine Learning**  
-- 🧠 Passionate about AI, Deep Learning, and Smart Systems  
-- 🌱 Currently mastering **Data Engineering** tools and frameworks  
-- 🛠 Building real-world projects with **FastAPI, MongoDB, React, TensorFlow, Blockchain**
+I'm a passionate final-year B.E. student majoring in Artificial Intelligence & Machine Learning at HKBK College of Engineering. My interests span across building intelligent systems, automating workflows, and crafting scalable full-stack applications with a strong emphasis on backend logic and data security. I love exploring emerging technologies like blockchain and leveraging AI for practical solutions.
 
 ---
 
-### 💼 Featured Project
+## 🛠️ Skills & Technologies
 
-🚀 **Smart Agriculture Supply Chain**  
-🌱 AI-Driven Insights & Blockchain Security
-
-- ✅ Crop yield prediction using Random Forest
-- 🧬 Disease detection using CNN with 90%+ accuracy
-- 🔒 Blockchain-powered smart contracts for secure transactions
-- 💡 Tech Stack: React.js, FastAPI, MongoDB, Python, Solidity
-
-🔗 [View Project Repository](https://github.com/Jagmohan-Prajapati/Smart-Agriculture)
-
----
-
-### 🧰 Tools & Technologies
-
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-**Frameworks & Libraries**  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-
-**Databases & Tools**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+### ⚙️ Core Expertise:
+- **Languages**: Python, JavaScript, TypeScript, SQL
+- **Frameworks & Libraries**: FastAPI, Flask, React.js, Node.js, Express, TailwindCSS
+- **Databases**: MongoDB, PostgreSQL, Firebase, MySQL
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras, Pandas, NumPy, OpenCV
+- **Blockchain**: Solidity, Web3.js, Smart Contracts, MetaMask (simulated & real)
+- **DevOps & Tools**: Docker, Git, GitHub, GitHub Actions, Vercel, Heroku, Postman
+- **Cloud & Deployment**: Render, Vercel, Heroku, Railway
+- **Project Architecture**: REST APIs, Microservices, Containerization, MVC
+- **Others**: Power BI, Excel for analytics, ETL Pipelines, VS Code, Linux
 
 ---
 
-### 📫 Connect With Me
+## 📁 Notable Projects
 
-- 📧 Email: jagmohan.prajapati2002@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jagmohan-prajapati)  
-- 🧠 [GitHub](https://github.com/Jagmohan-Prajapati)
+### 🔗 [Smart Agriculture Supply Chain 🌾🔒](https://github.com/Jagmohan-Prajapati/Smart-Agriculture)
+> **Tech Stack**: FastAPI + MongoDB + React + TensorFlow + Solidity
+
+- Crop Yield Prediction using AI (Random Forest, SVM)
+- Plant Disease Detection using CNN trained on image datasets
+- Smart Contract interaction (Ethereum simulation)
+- Full-stack dashboard with live predictions and blockchain-based security
+- Dockerized backend and frontend with proper modular architecture
+
+### 📊 [Data Engineering Capstone (ETL + PowerBI + SQL)](https://github.com/Jagmohan-Prajapati/Data-Engineering-Project)
+- Built ETL pipeline for raw data processing
+- Stored structured data in PostgreSQL
+- Interactive dashboards using Power BI
+
+### 📦 [Crop Recommendation App (ML + Streamlit)](https://github.com/Jagmohan-Prajapati/Crop-Recommendation)
+- Recommended best crops using soil, climate data
+- Deployed Streamlit frontend with real-time predictions
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
 ![Jagmohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagmohan-Prajapati&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagmohan-Prajapati&layout=compact&theme=radical)
+
 ---
 
-### 🚀 Let's Build Something Great Together!
+## 📫 Let's Connect
+
+- 📧 Email: jagmohanprajapat21@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/jagmohan-prajapati](https://linkedin.com/in/jagmohan-prajapati)
+- 💻 Portfolio: *Coming Soon*
+- 💬 Ask me about: AI/ML, Data Pipelines, Blockchain, Full Stack Projects
+
+---
+
+🔍 *Always learning. Always building.*
