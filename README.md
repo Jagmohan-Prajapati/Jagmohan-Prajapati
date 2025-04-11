@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate final-year B.E. student majoring in Artificial Intelligence & Machine Learning at HKBK College of Engineering. My interests span across building intelligent systems, automating workflows, and crafting scalable full-stack applications with a strong emphasis on backend logic and data security. I love exploring emerging technologies like blockchain and leveraging AI for practical solutions.
+I'm a passionate final-year B.E. student majoring in Artificial Intelligence & Machine Learning at Visvesvaraya Technological University. My interests span across building intelligent systems, automating workflows, and crafting scalable full-stack applications with a strong emphasis on backend logic and data security. I love exploring emerging technologies like blockchain and leveraging AI for practical solutions.
 
 ---
 
